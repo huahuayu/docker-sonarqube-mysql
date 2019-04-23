@@ -26,7 +26,7 @@ sudo sh get-docker.sh
 ```bash
 // Clone repository
 sudo apt-get install git
-git clone https://github.com/marvinpuethe/docker-sonarqube-mysql.git
+git clone https://github.com/huahuayu/docker-sonarqube-mysql.git
 
 // Start docker-compose
 cd docker-sonarqube-mysql/sonarqube-mysql
